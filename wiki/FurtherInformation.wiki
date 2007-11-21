@@ -41,4 +41,4 @@ If you have signed up to complete a particular task and you have some questions 
 
 If you've looked for the answer but could not find any documentation or it was unclear please create a [http://moinmo.in/MoinMoinBugs bug report] or [http://moinmo.in/EditingOnMoinMaster contribute to the documentation] yourself so the community can continue to improve the information for everyone.
 
-If you have a question not answered here that is related to contest mechanics, your best bet is to check out Google's PROGRAM PAGE for more details.
+If you have a question not answered here that is related to contest mechanics, your best bet is to check out [http://code.google.com/opensource/ghop/2007-8 Google's program page] for more details.
