@@ -17,9 +17,9 @@ Most tasks have been sorted into the following categories. You can find all task
 = Requirements =
 *It is required that you create an account in the [http://moinmo.in/ main Moinmoin wiki] and create a homepage there.*
 
-*If not specified differently, the coding work has to be done on the [http://hg.moinmo.in/moin/1.6/ MoinMoin 1.6 branch]. You will have to provide a diff file generated using "hg diff" or "hg export" (compare the Mercurial guide linked below) and attach it to the tracker.*
+*If not specified differently, all coding work has to be done on the [http://hg.moinmo.in/moin/1.6/ MoinMoin 1.6 branch]. You will have to provide a diff file generated using "hg diff" or "hg export" (compare the Mercurial guide linked below) and attach it to the tracker.*
 
-*In case of the task not being a coding related one, the deliverable is expected to be written down on the linked wiki page and additionally attached to the tracker item here on the code.google.com site.*
+*If the task your complete is not a coding related one, the deliverable is expected to be written down on the linked wiki page and additionally attached to the tracker item here on the code.google.com site.*
 
 = Resources =
 
