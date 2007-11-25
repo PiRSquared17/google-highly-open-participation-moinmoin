@@ -15,20 +15,19 @@ Most tasks have been sorted into the following categories. You can find all task
 
 
 = Requirements =
-*It is required that you create an account in the [http://moinmo.in/ main Moinmoin wiki] and create a homepage there.*
+*It is required that you create an account in the [http://moinmo.in/ main MoinMoin wiki] and create a homepage there.*
 
 *If not specified differently, all coding work has to be done on the [http://hg.moinmo.in/moin/1.6/ MoinMoin 1.6 branch]. You will have to provide a diff file generated using "hg diff" or "hg export" (compare the Mercurial guide linked below) and attach it to the tracker.*
 
-*If the task you do is not a coding related one, the deliverable is expected to be written down on the linked wiki page and additionally attached to the tracker item here on the code.google.com site.*
+*If the task you do is not a coding related one and you are not told differently, the deliverable is expected to be written down on the linked wiki page and additionally attached to the tracker item here on the code.google.com site.*
 
 = Resources =
 
-If you are interested in participating in the contest by working on the Moinmoin project, you should spend some time checking out the [http://moinmo.in/ project website].
-
+If you are interested in participating in the contest by working on the !MoinMoin project, you should spend some time checking out the [http://moinmo.in/ project website].
 
 Here are some of the first things to check out as a newly arrived contributor:
 
-    * [http://moinmo.in/MoinMoinDownload Download]: You can get a copy of the latest version of Moinmoin from this page.
+    * [http://moinmo.in/MoinMoinDownload Download]: You can get a copy of the latest version of !MoinMoin from this page.
     * [http://moinmo.in/MoinDev Development overview]: This site has some developer documentation.
 
 
@@ -41,7 +40,7 @@ Here are some of the first things to check out as a newly arrived contributor:
 
 If you have signed up to complete a particular task and you have some questions about how best to complete it, first see if the task description has specific instructions about whom to contact for assistance. If there are no specific instructions in the task, these resources should be helpful to you:
 
-    * *IRC Chat:* Representatives from the Moinmoin project will be hanging out in #moin-dev on irc.freenode.net to answer any questions you may have. If they don't know the answer, they will be happy to point you in the right direction.
+    * *IRC Chat:* Representatives from the !MoinMoin project will be hanging out in #moin-dev on irc.freenode.net to answer any questions you may have. If they don't know the answer, they will be happy to point you in the right direction.
     * *Group Site*: You can always ask questions on our [http://moinmo.in/GhopQuestions GHOP questions page]. 
 
 If you've looked for the answer but could not find any documentation or it was unclear please create a [http://moinmo.in/MoinMoinBugs bug report] or [http://moinmo.in/EditingOnMoinMaster contribute to the documentation] yourself so the community can continue to improve the information for everyone.
