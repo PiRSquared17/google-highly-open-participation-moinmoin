@@ -43,7 +43,7 @@ Here are some of the first things to check out as a newly arrived contributor:
 If you have signed up to complete a particular task and you have some questions about how best to complete it, first see if the task description has specific instructions about whom to contact for assistance. If there are no specific instructions in the task, these resources should be helpful to you:
 
     * *IRC Chat:* Representatives from the Moinmoin project will be hanging out in #moin-dev on irc.freenode.net to answer any questions you may have. If they don't know the answer, they will be happy to point you in the right direction.
-    * *Group Site*: You can always ask questions on our [http://moinmo.in/GhopQuestion GHOP questions page]. 
+    * *Group Site*: You can always ask questions on our [http://moinmo.in/GhopQuestions GHOP questions page]. 
 
 If you've looked for the answer but could not find any documentation or it was unclear please create a [http://moinmo.in/MoinMoinBugs bug report] or [http://moinmo.in/EditingOnMoinMaster contribute to the documentation] yourself so the community can continue to improve the information for everyone.
 
