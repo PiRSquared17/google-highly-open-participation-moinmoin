@@ -8,8 +8,8 @@ Most tasks have been sorted into the following categories. You can find all task
     * Documentation: tasks which involve fixing errors in existing documentation or writing new documentation
     * Outreach: tasks which involve helping the project spread the word about their offerings
     * Translation: tasks which involve translating documentation, etc. into other languages
-    * QualityAssurance: tasks which involve testing software or writing tests for an existing code base
-    * UserInterface: tasks which involve UI design or user experience research 
+    * !QualityAssurance: tasks which involve testing software or writing tests for an existing code base
+    * !UserInterface: tasks which involve UI design or user experience research 
     * Training: Tasks related to helping others learn more
     * Research: Tasks related to studying a problem and recommending solutions
 
