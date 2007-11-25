@@ -30,13 +30,12 @@ Here are some of the first things to check out as a newly arrived contributor:
 
     * [http://moinmo.in/MoinMoinDownload Download]: You can get a copy of the latest version of Moinmoin from this page.
     * [http://moinmo.in/MoinDev Development overview]: This site has some developer documentation.
-    * [http://moinmo.in/MoinMoinChat IRC Channels]: There are two IRC channels. You should join one of them if you want to contact us easily.
 
 
 = !HowTos for Specific Tasks =
 
 == Coding Resources ==
-    * Mercurial Cheatsheet: http://moinmo.in/MoinDev/MercurialGuide
+    * [http://moinmo.in/MoinDev/MercurialGuide Mercurial Cheatsheet]
 
 = Getting Help =
 
@@ -47,4 +46,4 @@ If you have signed up to complete a particular task and you have some questions 
 
 If you've looked for the answer but could not find any documentation or it was unclear please create a [http://moinmo.in/MoinMoinBugs bug report] or [http://moinmo.in/EditingOnMoinMaster contribute to the documentation] yourself so the community can continue to improve the information for everyone.
 
-If you have a question not answered here that is related to contest mechanics, your best bet is to check out [http://code.google.com/opensource/ghop/2007-8 Google's program page] for more details.
+If you have a question not answered here that is related to contest mechanics, your best bet is to check out [http://code.google.com/opensource/ghop/2007-8 the contest web page] for more details.
