@@ -1,4 +1,4 @@
-#summary We use the main MoinMoin wiki site for stuff.#
+#summary We use the main MoinMoin wiki site for stuff.
 = Please note =
 
 As we are developing a powerful wiki engine, we prefer to use our own wiki, which is located at http://moinmo.in/.
