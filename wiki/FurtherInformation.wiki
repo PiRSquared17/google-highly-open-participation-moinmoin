@@ -15,6 +15,8 @@ Most tasks have been sorted into the following categories. You can find all task
 
 
 = Requirements =
+Do not forget that you may only claim *one task at a time*.
+
 *It is required that you create an account in the [http://moinmo.in/ main MoinMoin wiki] and create a homepage there. You should monitor it for communication attempts by other persons.*
 
 *If not specified differently, all coding work has to be done on the [http://hg.moinmo.in/moin/1.6/ MoinMoin 1.6 branch]. You will have to provide a diff file generated using "hg diff" or "hg export" (compare the Mercurial guide linked below) and attach it to the tracker.*
