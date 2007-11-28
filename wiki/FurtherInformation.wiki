@@ -1,17 +1,5 @@
 #summary Further Information for Student Contestants
 
-= Task Categories =
-
-Most tasks have been sorted into the following categories. You can find all tasks in a particular category by searching for a particular label:
-
-    * Code: tasks which involve patching existing code or writing new code
-    * Documentation: tasks which involve fixing errors in existing documentation or writing new documentation
-    * Outreach: tasks which involve helping the project spread the word about their offerings
-    * Translation: tasks which involve translating documentation, etc. into other languages
-    * !QualityAssurance: tasks which involve testing software or writing tests for an existing code base
-    * !UserInterface: tasks which involve UI design or user experience research 
-    * Training: Tasks related to helping others learn more
-    * Research: Tasks related to studying a problem and recommending solutions
 
 
 = Requirements =
@@ -26,6 +14,19 @@ Do not forget that you may only claim *one task at a time*.
 Documentation changes should usually occur on http://master.moinmo.in.
 
 All your work must be licensed as GPL v2 or a compatible license.
+
+= Task Categories =
+
+Most tasks have been sorted into the following categories. You can find all tasks in a particular category by searching for a particular label:
+
+    * Code: tasks which involve patching existing code or writing new code
+    * Documentation: tasks which involve fixing errors in existing documentation or writing new documentation
+    * Outreach: tasks which involve helping the project spread the word about their offerings
+    * Translation: tasks which involve translating documentation, etc. into other languages
+    * !QualityAssurance: tasks which involve testing software or writing tests for an existing code base
+    * !UserInterface: tasks which involve UI design or user experience research 
+    * Training: Tasks related to helping others learn more
+    * Research: Tasks related to studying a problem and recommending solutions
 
 = Resources =
 
