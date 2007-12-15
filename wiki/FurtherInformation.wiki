@@ -10,7 +10,7 @@ If not specified differently, *all work has to be done on the [http://hg.moinmo.
 
 If your task is not a coding related one and you are not told differently, the *deliverable is expected to be written down on the linked wiki page* and additionally attached to the tracker item here on the code.google.com site.
 
-Documentation changes should usually occur on http://master.moinmo.in.
+Documentation changes should usually occur on http://master.moinmo.in. Please read http://moinmo.in/EditingOnMoinMaster before editing any pages there.
 
 All your work must be licensed as GPL v2 or a compatible license.
 
